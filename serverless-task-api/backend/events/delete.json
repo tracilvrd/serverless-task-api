@@ -1,0 +1,7 @@
+// delete.json
+{
+  "httpMethod": "DELETE",
+  "queryStringParameters": {
+    "taskId": "sample-id"
+  }
+}
